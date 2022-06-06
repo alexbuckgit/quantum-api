@@ -1110,3 +1110,7 @@
   - {name: TargetInstruction, uid: Microsoft.Quantum.Targeting.TargetInstruction}
   name: Microsoft.Quantum.Targeting
   uid: Microsoft.Quantum.Targeting
+- items:
+  - {name: TestParity, uid: Quantum.QSharpFoundation.Tests.TestParity}
+  name: Quantum.QSharpFoundation.Tests
+  uid: Quantum.QSharpFoundation.Tests

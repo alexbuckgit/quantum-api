@@ -842,6 +842,7 @@
   - {name: IsFinite, uid: Microsoft.Quantum.Math.IsFinite}
   - {name: IsInfinite, uid: Microsoft.Quantum.Math.IsInfinite}
   - {name: IsNaN, uid: Microsoft.Quantum.Math.IsNaN}
+  - {name: LargestFixedPoint, uid: Microsoft.Quantum.Math.LargestFixedPoint}
   - {name: Lg, uid: Microsoft.Quantum.Math.Lg}
   - {name: Log, uid: Microsoft.Quantum.Math.Log}
   - {name: Log10, uid: Microsoft.Quantum.Math.Log10}
@@ -897,6 +898,7 @@
   - {name: SignL, uid: Microsoft.Quantum.Math.SignL}
   - {name: Sin, uid: Microsoft.Quantum.Math.Sin}
   - {name: Sinh, uid: Microsoft.Quantum.Math.Sinh}
+  - {name: SmallestFixedPoint, uid: Microsoft.Quantum.Math.SmallestFixedPoint}
   - {name: Sqrt, uid: Microsoft.Quantum.Math.Sqrt}
   - {name: SquaredNorm, uid: Microsoft.Quantum.Math.SquaredNorm}
   - {name: Tan, uid: Microsoft.Quantum.Math.Tan}
